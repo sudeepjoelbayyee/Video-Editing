@@ -182,7 +182,7 @@ function App() {
             <div className="group relative overflow-hidden rounded-lg">
               <a href="https://drive.google.com/file/d/16F40M_hsAp3z7MbSVFjkURtZLEWP2fQl/view?usp=sharing">
                 <img
-                  src="https://images.unsplash.com/photo-1635805737707-575885ab0820?auto=format&fit=crop&w=800&q=80"
+                  src="https://images.unsplash.com/photo-1611604548018-d56bbd85d681?auto=format&fit=crop&w=800&q=80"
                   alt="Music Video Project"
                   className="w-full h-80 object-cover transition-transform group-hover:scale-110"
                 />
