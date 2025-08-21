@@ -227,7 +227,7 @@ function App() {
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex items-end p-6">
                 <div>
                   <h3 className="text-xl font-bold mb-2">Youtube Channel</h3>
-                  <p className="text-gray-300">Been Uploading Christian Related content from October 20 and Gained 40k+ subscribers Presently</p>
+                  <p className="text-gray-300">Been Uploading Christian Related content from October 20 and Gained 160k+ subscribers Presently</p>
                 </div>
               </div>
             </div>
