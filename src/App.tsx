@@ -31,7 +31,7 @@ function App() {
             </div>
             <div className="md:w-1/2">
               <p className="text-lg text-gray-300 leading-relaxed">
-                With over 8 years of experience in video editing, I specialize in creating visual narratives that captivate audiences. I independently film and edit videos based on the stories I imagine. I always focus on storytelling through powerful editing techniques. I also been running a youtube channel named (Joel's Gospel Inspirations) in over 160K+ Subscribers uploading Faith based videos. And also Doing Freelancing to different clients
+                With over 8 years of experience in video editing, I specialize in creating visual narratives that captivate audiences. I independently film and edit videos based on the stories I imagine. I always focus on storytelling through powerful editing techniques. I also been running a youtube channel named (Joel's Gospel Inspirations) in over 160K+ Subscribers uploading Faith based videos. And also Doing Freelancing to different clients.
               </p>
               <div className="mt-8 flex gap-4">
                 <a href="#contact" className="bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-full inline-flex items-center gap-2">
