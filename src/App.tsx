@@ -5,15 +5,15 @@ function App() {
     <div className="min-h-screen bg-black text-white">
       {/* Hero Section */}
       <section className="min-h-screen flex items-center justify-center relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-b from-black/80 to-black/50 z-10"></div>
+        <div className="absolute inset-0 bg-gradient-to-b from-black/70 to-black/80 z-10"></div>
         <img
-          src="https://designkaka.com/wp-content/uploads/2020/05/Free-Video-Editing-Tools-For-you1-600x400.jpg"
-          alt="Video Editor Background"
+          src="https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=2070&q=80"
+          alt="Professional Video Editing Setup"
           className="absolute inset-0 w-full h-full object-cover"
         />
         <div className="container mx-auto px-6 relative z-20 text-center">
-          <h1 className="text-6xl font-bold mb-4">Sudeep Joel Bayye</h1>
-          <p className="text-2xl text-gray-300 mb-8">Professional Video Editor</p>
+          <h1 className="text-6xl font-bold mb-4 drop-shadow-2xl">Sudeep Joel Bayye</h1>
+          <p className="text-2xl text-gray-200 mb-8 drop-shadow-lg">Professional Video Editor</p>
         </div>
       </section>
 
