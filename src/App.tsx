@@ -18,7 +18,7 @@ function App() {
       </section>
 
       {/* About Section */}
-      <section className="py-20 bg-zinc-900" id="about">
+      <section className="py-20 bg-gradient-to-b from-zinc-900 to-black" id="about">
         <div className="container mx-auto px-6">
           <h2 className="text-4xl font-bold mb-12 text-center">About Me</h2>
           <div className="flex flex-col md:flex-row items-center gap-12">
@@ -49,7 +49,7 @@ function App() {
       </section>
 
       {/* Skills Section */}
-      <section className="py-20 bg-black" id="skills">
+      <section className="py-20 bg-gradient-to-b from-black to-zinc-900" id="skills">
         <div className="container mx-auto px-6">
           <h2 className="text-4xl font-bold mb-12 text-center">Skills & Expertise</h2>
 
