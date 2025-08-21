@@ -5,7 +5,7 @@ function App() {
     <div className="min-h-screen bg-black text-white">
       {/* Hero Section */}
       <section className="min-h-screen flex items-center justify-center relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-b from-black/70 to-black/80 z-10"></div>
+        <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-black/70 to-zinc-900 z-10"></div>
         <img
           src="https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=2070&q=80"
           alt="Professional Video Editing Setup"
