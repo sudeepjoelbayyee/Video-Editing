@@ -159,11 +159,11 @@ function App() {
           <h2 className="text-4xl font-bold mb-12 text-center">My Works</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
 
-            {/* Project 1 - Thor VFX */}
+            {/* Project 1 - Cinematic edit */}
             <div className="group relative overflow-hidden rounded-lg">
               <a href="https://www.instagram.com/reel/DNkyus_T4Ez/">
                 <img
-                  src="https://varthana.com/school/wp-content/uploads/2024/01/B762-2.jpg"
+                  src="https://plus.unsplash.com/premium_photo-1682125771198-f7cbed7cb868?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2luZW1hfGVufDB8fDB8fHww"
                   alt="Music Video Project"
                   className="w-full h-80 object-cover transition-transform group-hover:scale-110"
                 />
