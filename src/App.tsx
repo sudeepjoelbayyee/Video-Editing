@@ -56,7 +56,7 @@ function App() {
           {/* Technical Skills */}
           <div className="mb-16">
             <h3 className="text-2xl font-bold mb-8 text-center">Technical Skills</h3>
-            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 justify-items-center">
               {/* After Effects */}
               <div className="bg-zinc-900 p-6 rounded-lg hover:bg-zinc-800 transition-colors">
                 <img
@@ -85,6 +85,16 @@ function App() {
                   className="w-16 h-16 mx-auto mb-4"
                 />
                 <h4 className="text-center font-semibold">Blender 3D</h4>
+              </div>
+
+              {/* DaVinci Resolve */}
+              <div className="bg-zinc-900 p-6 rounded-lg hover:bg-zinc-800 transition-colors">
+                <img
+                  src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg"
+                  alt="DaVinci Resolve"
+                  className="w-16 h-16 mx-auto mb-4"
+                />
+                <h4 className="text-center font-semibold">DaVinci Resolve</h4>
               </div>
 
               {/* CapCut */}
